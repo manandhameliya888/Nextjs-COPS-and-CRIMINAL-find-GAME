@@ -10,8 +10,8 @@ To install all the required dependencies, run the following command:
 npm install
 ```
 
-To install all the required dependencies, run the following command:
+To run the project, run the following command:
 
 ```bash
-npm install
+npm run dev
 ```
